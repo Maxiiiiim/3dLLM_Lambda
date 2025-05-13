@@ -1,0 +1,31 @@
+'#edges': 76
+'#faces': 37362
+'#norms': 22229
+'#parts': 1
+'#points': 54
+'#sharp': 31
+'#surfs': 44
+'#verts': 18681
+bbox: [-40.594519334095715, -40.59451935178986, -30.030254670538138, 40.59451935178986,
+  40.59451935178986, 0.003542875971777805, 81.18903868588558, 81.18903870357973, 30.033797546509916]
+curves: [Circle, BSpline, BSpline, BSpline, Circle, Circle, BSpline, Circle, Circle,
+  BSpline, Circle, Circle, BSpline, Circle, Circle, Circle, Circle, Circle, Circle,
+  BSpline, BSpline, Circle, Circle, BSpline, BSpline, BSpline, BSpline, BSpline, BSpline,
+  BSpline, BSpline, BSpline, BSpline, BSpline, BSpline, BSpline, BSpline, BSpline,
+  BSpline, BSpline, BSpline, BSpline, Circle, BSpline, Circle, Circle, BSpline, Circle,
+  BSpline, BSpline, BSpline, BSpline, Circle, Circle, BSpline, Circle, Circle, Circle,
+  Circle, BSpline, Circle, BSpline, BSpline, Circle, BSpline, Circle, BSpline, Circle,
+  BSpline, Circle, BSpline, Circle, BSpline, Circle, BSpline]
+diag: 118.68171301179612
+gaus_curv: 6954.310541805043
+max_length: 0.0011868171301179613
+mean_curv: -179.29065013296034
+model: /beegfs/work/panozzo/onshape/datasets/abc/0000/step/00000002/00000002_1ffb81a71e5b402e966b9341_step_001.step
+surface: 1.0371437583692298e-09
+surfs: [Cylinder, Sphere, Cone, Cylinder, Plane, Plane, Cylinder, Sphere, Sphere,
+  Sphere, Sphere, Sphere, Sphere, Sphere, Sphere, Sphere, Sphere, Sphere, Sphere,
+  Sphere, Sphere, Torus, Torus, Torus, Torus, Torus, Torus, Torus, Plane, Cone, Cylinder,
+  Cylinder, Torus, Torus, Torus, Torus, Plane, Sphere, Sphere, Sphere, Sphere, Cylinder,
+  Plane, Cylinder]
+tolerance: 1.1868171301179612e-05
+volume: 1.0371407570281378e-09
