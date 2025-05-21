@@ -5,7 +5,9 @@ import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
 from sklearn.decomposition import PCA
+from sklearn.manifold import Isomap
 from sklearn.neighbors import NearestNeighbors
+from scipy.spatial.distance import cdist
 from sklearn.manifold import MDS
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
@@ -20,7 +22,6 @@ warnings.filterwarnings("ignore")
 # from numpy.random import RandomState
 # from sklearn.decomposition import FastICA
 # from sklearn.manifold import TSNE
-# from sklearn.manifold import Isomap
 
 def load_images_from_folder(folder):
     images = []
@@ -30,7 +31,7 @@ def load_images_from_folder(folder):
 
     for root, dirs, files in os.walk(folder):
         for file in files:
-            if file.lower().endswith(('.png', '.jpg', '.jpeg')):
+            if file.lower().endswith(('_r.png', '_g.png', '_b.png')):
                 img_path = os.path.join(root, file)
                 try:
                     img = Image.open(img_path).convert('L')  # в оттенки серого
@@ -131,7 +132,28 @@ def repeated(func, X, nb_iter=100, random_state=None, mode='bootstrap', **func_k
         results.append(func(Xr, **func_kw))
     return results
 
-def make_collage(folder_path):
+def get_farthest_points(points, k):
+    """Выбирает k самых удалённых точек из массива."""
+    n = points.shape[0]
+    selected_indices = []
+
+    # 1. Начинаем с самой удалённой точки от центра масс
+    centroid = np.mean(points, axis=0)
+    distances = cdist(points, centroid[np.newaxis, :])
+    first_idx = np.argmax(distances)
+    selected_indices.append(first_idx)
+
+    # 2. Последовательно добавляем самые удалённые от уже выбранных
+    while len(selected_indices) < k:
+        # Вычисляем минимальное расстояние от каждой точки до уже выбранных
+        min_distances = np.min(cdist(points, points[selected_indices]), axis=1)
+        # Выбираем точку с максимальным минимальным расстоянием
+        next_idx = np.argmax(min_distances)
+        selected_indices.append(next_idx)
+
+    return points[selected_indices]
+
+def make_collage(folder_path, part_number):
     images, targets, image_names = load_images_from_folder(folder_path)
 
     X = images.reshape(len(images), -1)
@@ -144,7 +166,7 @@ def make_collage(folder_path):
 
     pca = PCA().fit(data)
 
-    X_projected = PCA(136).fit_transform(data)
+    X_projected = PCA(60).fit_transform(data)
     data_pic = data.reshape((-1, 64, 64))
 
     k1 = 1 # start of interval(included)
@@ -164,103 +186,91 @@ def make_collage(folder_path):
     data = images
     target = targets
 
-    data = data[target <20]
-    target = target[target <20]
-
-    # X_projected = FastICA(20, random_state = 42).fit_transform(data)
-    # data_pic = data.reshape((-1, 64, 64))
-    #
-    # tsne = TSNE(n_components=2, n_iter = 1000, metric='euclidean', learning_rate= 10, verbose=2, random_state = 42)
-    #
-    # X_projected = tsne.fit_transform(data)
-    # data_pic = data.reshape((-1, 64, 64))
-    #
-    # X_projected = Isomap(n_components=2).fit_transform(data)
-    # data_pic = data.reshape((-1, 64, 64))
-
-    X_projected = MDS(n_components=2).fit_transform(data)
+    X_projected = Isomap(n_components=2).fit_transform(data)
     data_pic = data.reshape((-1, 64, 64))
 
-    # Исходный массив
-    arr = X_projected
+    create_photo_collage(folder_path, X_projected, image_names, part_number)
 
-    # 1. Сортируем массив по X (первый столбец)
-    sorted_by_x = arr[arr[:, 0].argsort()]
+def create_photo_collage(folder_path, X_projected, image_names, part_number):
+    for count in [3, 4, 6]:
+        farthest_points = get_farthest_points(X_projected, count)
 
-    error_rate = 10
+        diff_images = []
+        for i in range(len(X_projected)):
+            for j in range(len(farthest_points)):
+                if (X_projected[i][0] == farthest_points[j][0] and X_projected[i][1] == farthest_points[j][1]):
+                    print(f'{i} - {X_projected[i]} and {j} - {farthest_points[j]}')
+                    diff_images.append(i)
 
-    # 2. Выбираем левую, центральную и правую точки
-    left_point = sorted_by_x[0]      # Минимальный X
-    right_point = sorted_by_x[-1]    # Максимальный X
-    center_point = sorted_by_x[len(sorted_by_x) // 2]  # Медиана по X
+        files_for_concat = []
 
-    print("Левая точка (min X):", left_point)
-    print("Центральная точка (медиана X):", center_point)
-    print("Правая точка (max X):", right_point)
+        for num in diff_images:
+            file_name = os.path.join(folder_path, image_names[num])
+            img = mpimg.imread(file_name)
+            files_for_concat.append(file_name)
 
-    diff_images = []
-    for i in range(len(X_projected)):
-      if (X_projected[i][0] == left_point[0] and X_projected[i][1] == left_point[1]) \
-      or (X_projected[i][0] == center_point[0] and X_projected[i][1] == center_point[1]) \
-      or (X_projected[i][0] == right_point[0] and X_projected[i][1] == right_point[1]):
-        diff_images.append(i)
-        print(f'{i} - {X_projected[i]}')
+        images = []
+        for i in range(len(files_for_concat)):
+            img = mpimg.imread(files_for_concat[i])
+            img = Image.fromarray((img * 255).astype(np.uint8))
+            images.append(img)
 
-    files_for_concat = []
+        save_collage(count, images, part_number)
 
-    for num in diff_images:
-      file_name = os.path.join(folder_path, image_names[num])
-      # img = mpimg.imread(file_name)
-      files_for_concat.append(file_name)
-      # plt.imshow(img)
-      # plt.show()
+def save_collage(count, images, part_number):
+    if count == 3:
+        # Создаем новое изображение
+        total_width = images[0].width * 3
+        total_height = images[0].height
+        new_img = Image.new('RGB', (total_width, total_height))
 
-    # Загружаем изображения
-    img1 = Image.open(files_for_concat[0])
-    img2 = Image.open(files_for_concat[1])
-    img3 = Image.open(files_for_concat[2])
+        # Вставляем изображения
+        new_img.paste(images[0], (0, 0))
+        new_img.paste(images[1], (images[0].width, 0))
+        new_img.paste(images[2], (images[0].width + images[1].width, 0))
 
-    # Проверяем, что все изображения имеют одинаковую высоту
-    assert img1.height == img2.height == img3.height, "Изображения должны быть одинаковой высоты"
+        new_img.save(f"./example_material/collages_3/{part_number}.jpg")
 
-    # Создаем новое изображение
-    total_width = img1.width + img2.width + img3.width
-    new_img = Image.new('RGB', (total_width, img1.height))
+    if count == 4:
+        # Создаем новое изображение
+        total_width = images[0].width * 2
+        total_height = images[0].height * 2
+        new_img = Image.new('RGB', (total_width, total_height))
 
-    # Вставляем изображения
-    new_img.paste(img1, (0, 0))
-    new_img.paste(img2, (img1.width, 0))
-    new_img.paste(img3, (img1.width + img2.width, 0))
+        # Вставляем изображения
+        new_img.paste(images[0], (0, 0))
+        new_img.paste(images[1], (images[0].width, 0))
+        new_img.paste(images[2], (0, images[0].height))
+        new_img.paste(images[3], (images[0].width, images[0].height))
 
-    num = folder_path.split(sep='/')[-1].split(sep='_')[0]
-    new_img.save(f"./example_material/collages/{num}.jpg")
+        new_img.save(f"./example_material/collages_4/{part_number}.jpg")
 
+    if count == 6:
+        # Создаем новое изображение
+        total_width = images[0].width * 3
+        total_height = images[0].height * 2
+        new_img = Image.new('RGB', (total_width, total_height))
 
+        # Вставляем изображения
+        new_img.paste(images[0], (0, 0))
+        new_img.paste(images[1], (images[0].width, 0))
+        new_img.paste(images[2], (images[0].width + images[1].width, 0))
+        new_img.paste(images[3], (0, images[0].height))
+        new_img.paste(images[4], (images[3].width, images[0].height))
+        new_img.paste(images[5], (images[3].width + images[4].width, images[0].height))
+
+        new_img.save(f"./example_material/collages_6/{part_number}.jpg")
+
+def main():
+    # object_path = "C:\\Users\\mminecz\\PycharmProjects\\main\\3D_LLM\\DiffuRank\\example_material\\rendered_imgs"
     # folder_path = "./example_material/rendered_imgs/00000002_1ffb81a71e5b402e966b9341_trimesh_001"
-
-def create_photo_collage():
-    object_path = "C:\\Users\\mminecz\\PycharmProjects\\PythonProject\\3dLLM_Lambda\\example_material\\rendered_imgs"
+    object_path = "./example_material/rendered_imgs"
 
     # Проходим по всем подпапкам и файлам
     for dirpath, dirnames, filenames in os.walk(object_path):
+        if dirpath != object_path:
+            part_number = dirpath.split(sep='\\')[-1].split(sep='_')[0]
+            print(dirpath)
+            make_collage(dirpath, part_number)
 
-        for dirname in dirnames:
-            path = os.path.join('./example_material/rendered_imgs/', dirname)
-            make_collage(path)
-        # for filename in filenames:
-        #     if filename.endswith(".obj"):  # можно убрать, если нужны все файлы
-        #         file_path = os.path.join(dirpath, filename)
-        #         part_number = dirpath.split(sep='\\')[-1]
-        #
-        #         if part_number in parts:
-        #             obj_files.append(os.path.join(f"./abc_dataset/object/{part_number}/", filename))
-
-                # with open(file_path, 'r', encoding='utf-8') as file:
-                #     try:
-                #         data = yaml.safe_load(file)
-                #         if part_number in parts:
-                #             obj_files.append(part_number)
-                #     except Exception as e:
-                #         print(f"Ошибка при чтении {file_path}: {e}")
-
-create_photo_collage()
+main()
