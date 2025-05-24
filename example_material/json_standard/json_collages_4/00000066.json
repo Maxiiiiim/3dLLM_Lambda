@@ -1,0 +1,63 @@
+{
+    "File name": "sample_product_model.jpg",
+    "Name of operation": "Manufacturing of Plastic Clip",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analysing the drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material stock"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Injection molding",
+            "Equipment": [
+                "Injection molding machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Cooling",
+            "Equipment": [
+                "Cooling system"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Measurement gauges"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray booth",
+                "Coating materials"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging machine"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "File name": "3D_model_part.jpg",
+    "Name of operation": "Machining of a component",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze technical drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough cutting of material",
+            "Equipment": [
+                "CNC milling machine"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing the surface",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Drill holes",
+            "Equipment": [
+                "Drilling machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Bore holes to precise diameter",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading operations",
+            "Equipment": [
+                "Tapping machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Slotting to create keyways",
+            "Equipment": [
+                "Slotter"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Reaming holes for smooth finish",
+            "Equipment": [
+                "Reaming machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Grinding the surfaces",
+            "Equipment": [
+                "Surface grinder"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Polishing the final surface",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating booth"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Deburring sharp edges",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging of finished product",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

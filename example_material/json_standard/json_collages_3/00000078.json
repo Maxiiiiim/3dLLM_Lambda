@@ -1,0 +1,134 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "Software (CAD)"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough Turning",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming Tool"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Slotting",
+            "Equipment": [
+                "Slotting Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Key-seating",
+            "Equipment": [
+                "Key-seating Machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Heat Treatment",
+            "Equipment": [
+                "Heat Treatment Furnace"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Sand-blasting",
+            "Equipment": [
+                "Sand-blasting Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Grinding",
+            "Equipment": [
+                "Grinding Machine"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Quality Inspection",
+            "Equipment": [
+                "Measurement Tools",
+                "Quality Control Software"
+            ]
+        },
+        {
+            "Step number": 17,
+            "Action": "Surface Coating",
+            "Equipment": [
+                "Coating Machine"
+            ]
+        },
+        {
+            "Step number": 18,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Machine"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "File name": "hook_model.jpg",
+    "Name of operation": "Manufacturing a Hook",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material database"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Cut raw material",
+            "Equipment": [
+                "Bandsaw",
+                "Water jet cutter"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Bend material to form initial shape",
+            "Equipment": [
+                "Bending machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Face the edges for smooth finish",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drill holes for fixtures",
+            "Equipment": [
+                "Drill press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Ream holes for precise fit",
+            "Equipment": [
+                "Reaming machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Heat treatment for strengthening",
+            "Equipment": [
+                "Heat treatment furnace"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburr edges and surfaces",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Sand-blast for surface finish",
+            "Equipment": [
+                "Sandblasting cabinet"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grind if necessary for precision",
+            "Equipment": [
+                "Surface grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polish for aesthetic finish",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Caliper",
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Apply surface coating if required",
+            "Equipment": [
+                "Spray booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Package finished product",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

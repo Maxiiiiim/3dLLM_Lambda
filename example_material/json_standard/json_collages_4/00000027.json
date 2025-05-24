@@ -1,0 +1,97 @@
+{
+    "File name": "component_model.jpg",
+    "Name of operation": "Machining a Clamping Ring",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and specifications",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning of outer diameter",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing the end surface",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring the inner diameter",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes for mounting",
+            "Equipment": [
+                "CNC Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Milling for key seat",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming holes for accuracy",
+            "Equipment": [
+                "Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Deburring edges and surfaces",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Heat treatment for hardness",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Grinding surfaces for finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Quality inspection and measurement",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Coating Booth"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Packaging the finished product",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

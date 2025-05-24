@@ -1,0 +1,112 @@
+{
+    "File name": "3D_Model.jpg",
+    "Name of operation": "Manufacturing of electronic device casing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer-aided design (CAD) software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material inventory system"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough machining",
+            "Equipment": [
+                "CNC milling machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Semi-finishing",
+            "Equipment": [
+                "CNC milling machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Finishing",
+            "Equipment": [
+                "CNC milling machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling holes",
+            "Equipment": [
+                "CNC drill press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Sand-blasting",
+            "Equipment": [
+                "Sand-blasting cabinet"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Measurement tools",
+                "Quality control software"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging line"
+            ]
+        }
+    ]
+}

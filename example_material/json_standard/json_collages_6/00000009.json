@@ -1,0 +1,97 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Cup Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze design drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Select raw material",
+            "Equipment": [
+                "Material storage system"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Cut raw material to size",
+            "Equipment": [
+                "Sawing machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Turn the outer diameter",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Face the top edge",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Bore the inner diameter",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Drill holes if necessary",
+            "Equipment": [
+                "Drilling machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Ream for precise fit",
+            "Equipment": [
+                "Reaming machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Mill the base for flatness",
+            "Equipment": [
+                "Milling machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburr the edges",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Apply surface coating",
+            "Equipment": [
+                "Coating spray booth"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality inspection for dimensions",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Package finished product",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

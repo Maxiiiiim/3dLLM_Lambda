@@ -1,0 +1,119 @@
+{
+    "File name": "3D_Model.jpg",
+    "Name of operation": "Metal Part Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze technical drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough cutting of raw material",
+            "Equipment": [
+                "Band saw"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing to provide flat surface",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Turning to achieve required diameter",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring to create precise hole",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling holes as per specification",
+            "Equipment": [
+                "Drill press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming for finishing holes",
+            "Equipment": [
+                "Reaming tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Milling to shape the part",
+            "Equipment": [
+                "CNC Milling machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Threading for bolt holes",
+            "Equipment": [
+                "Tapping machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring to remove sharp edges",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding for surface finish",
+            "Equipment": [
+                "Surface grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing for enhanced appearance",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Heat treatment for material strength",
+            "Equipment": [
+                "Heat treatment furnace"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Quality inspection for tolerance",
+            "Equipment": [
+                "Caliper",
+                "Micrometer"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Powder coating machine"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Packaging for shipment",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

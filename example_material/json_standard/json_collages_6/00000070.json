@@ -1,0 +1,88 @@
+{
+    "File name": "hook_model.jpg",
+    "Name of operation": "Manufacturing of Metal Hook",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the technical drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Cut the raw material to approximate dimensions",
+            "Equipment": [
+                "Bandsaw",
+                "Plasma Cutter"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Turn the ends for final shaping",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Mill the central slot",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drill holes for attachment",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Deburr edges to remove sharp edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Grind surfaces for smooth finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Polish the product for aesthetic finish",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Inspect quality and dimensions",
+            "Equipment": [
+                "Calipers",
+                "CMM"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Coat surface with protective finish",
+            "Equipment": [
+                "Spray Booth",
+                "Powder Coater"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Package the finished product",
+            "Equipment": [
+                "Packaging Machine",
+                "Boxes"
+            ]
+        }
+    ]
+}

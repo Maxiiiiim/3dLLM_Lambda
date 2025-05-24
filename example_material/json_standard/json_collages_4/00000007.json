@@ -1,0 +1,97 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Circular Disk Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze Drawing",
+            "Equipment": [
+                "Computer with CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material Cut",
+            "Equipment": [
+                "Band Saw"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Turning",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring Mill"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reamer"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Quality Inspection",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Surface Coating",
+            "Equipment": [
+                "Spray Coating Booth"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

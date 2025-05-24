@@ -1,0 +1,106 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "CNC Machining",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough Turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Drilling",
+            "Equipment": [
+                "CNC Drill Press"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring Mill"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Reaming",
+            "Equipment": [
+                "CNC Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Heat Treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality Inspection",
+            "Equipment": [
+                "Coordinate Measuring Machine",
+                "Calipers"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface Coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

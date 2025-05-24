@@ -1,0 +1,91 @@
+{
+    "File name": "3D_model_bolt.jpg",
+    "Name of operation": "Bolt Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Drilling the hex hole",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Tapping threads",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Grinding",
+            "Equipment": [
+                "Grinding Machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating Chamber"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Machine"
+            ]
+        }
+    ]
+}

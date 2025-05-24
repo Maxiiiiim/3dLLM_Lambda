@@ -1,0 +1,111 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer design software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring Mill"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Milling",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming Tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Furnace"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating Booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Machine"
+            ]
+        }
+    ]
+}

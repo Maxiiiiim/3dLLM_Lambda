@@ -1,0 +1,120 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Manufacturing Clamp",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Cut the blank material",
+            "Equipment": [
+                "Bandsaw",
+                "CNC Plasma Cutter"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Face the front surface",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Turn to rough dimensions",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drill holes",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Bore for precision",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Mill side features",
+            "Equipment": [
+                "CNC Mill"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Thread the inner hole",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburr edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Sand-blast surface",
+            "Equipment": [
+                "Sandblasting Machine"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Grind to finish dimensions",
+            "Equipment": [
+                "Grinding Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Polish surface",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Conduct quality inspection",
+            "Equipment": [
+                "Measuring Instruments"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Apply surface coating",
+            "Equipment": [
+                "Coating Station"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Package the product",
+            "Equipment": [
+                "Packaging Machine"
+            ]
+        }
+    ]
+}

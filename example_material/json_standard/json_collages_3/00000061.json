@@ -1,0 +1,118 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "3D Part Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material Database"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough cutting",
+            "Equipment": [
+                "Bandsaw"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Milling to profile",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Boring holes",
+            "Equipment": [
+                "Boring Mill"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming holes",
+            "Equipment": [
+                "Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Furnace"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Inspection Tools"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packing Materials"
+            ]
+        }
+    ]
+}

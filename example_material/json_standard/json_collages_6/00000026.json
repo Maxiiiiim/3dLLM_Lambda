@@ -1,0 +1,115 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing of a machined part",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and specifications",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Cut raw material to size",
+            "Equipment": [
+                "Band saw",
+                "Laser cutter"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough turning",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing to desired length",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring holes to specified diameter",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling additional holes",
+            "Equipment": [
+                "Drill press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Threading operations",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Milling slots",
+            "Equipment": [
+                "Milling machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Reaming for precise fit",
+            "Equipment": [
+                "Reaming machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring edges",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Heat treatment for strength",
+            "Equipment": [
+                "Furnace"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Surface finishing and polishing",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)",
+                "Calipers"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating applied",
+            "Equipment": [
+                "Spray booth",
+                "Electroplating setup"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Final packaging",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

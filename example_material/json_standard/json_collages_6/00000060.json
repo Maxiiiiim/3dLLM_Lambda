@@ -1,0 +1,111 @@
+{
+    "File name": "3D_Model.jpg",
+    "Name of operation": "Machining of a Component",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the drawing",
+            "Equipment": [
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning to initial dimensions",
+            "Equipment": [
+                "Lathe Machine"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing to achieve flat surfaces",
+            "Equipment": [
+                "Lathe Machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring for precise hole dimensions",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling additional holes",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading for screw applications",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling to create required features",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Slotting for keyways",
+            "Equipment": [
+                "Slotting Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Reaming to finish holes",
+            "Equipment": [
+                "Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Grinding for surface finish",
+            "Equipment": [
+                "Grinding Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Deburring to remove sharp edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Heat treatment for hardness",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection for dimensional accuracy",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Coating System"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging for shipment",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

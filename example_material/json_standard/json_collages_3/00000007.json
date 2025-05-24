@@ -1,0 +1,108 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Cylindrical Part Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling",
+            "Equipment": [
+                "Vertical Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Semi-finishing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Finishing",
+            "Equipment": [
+                "CNC Lathe",
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Sand-blasting",
+            "Equipment": [
+                "Sand Blaster"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM",
+                "Calipers",
+                "Micrometers"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

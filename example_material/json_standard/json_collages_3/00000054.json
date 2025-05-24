@@ -1,0 +1,78 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Sheet Metal Fabrication",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Drawing Analysis",
+            "Equipment": [
+                "Computer",
+                "Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material Cutting",
+            "Equipment": [
+                "Laser Cutter"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Forming",
+            "Equipment": [
+                "Press Brake"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Drilling Holes",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Bending Edges",
+            "Equipment": [
+                "Bending Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Welding Joints",
+            "Equipment": [
+                "TIG Welder"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring Edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Surface Treatment",
+            "Equipment": [
+                "Sand Blaster"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Quality Inspection",
+            "Equipment": [
+                "Caliper",
+                "Micrometer"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Machine"
+            ]
+        }
+    ]
+}

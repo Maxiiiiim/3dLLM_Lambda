@@ -1,0 +1,113 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing of a complex connector",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze technical drawing",
+            "Equipment": [
+                "Computer-Aided Design (CAD) software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring",
+            "Equipment": [
+                "CNC Boring Mill"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes",
+            "Equipment": [
+                "CNC Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Reaming holes",
+            "Equipment": [
+                "Reaming Tool"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling outer profiles",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding surfaces",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Caliper",
+                "Micrometer",
+                "CMM"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating Spray Booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

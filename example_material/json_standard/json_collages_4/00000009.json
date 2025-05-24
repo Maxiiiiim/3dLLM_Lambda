@@ -1,0 +1,111 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Cylindrical Part Machining",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and specifications",
+            "Equipment": [
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning to define outer diameter and length",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing the front to create a flat surface",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring to achieve inner diameter tolerance",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes for features",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading external features",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming for precise hole diameter",
+            "Equipment": [
+                "Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Milling to create complex shapes or slots",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Heat treatment for strength enhancement",
+            "Equipment": [
+                "Heat Treatment Furnace"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring to remove sharp edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding for surface finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing for final surface quality",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection to ensure all specifications are met",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Coating Booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging the finished product",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

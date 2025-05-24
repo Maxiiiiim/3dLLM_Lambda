@@ -1,0 +1,75 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Metal Hook Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Cut material to size",
+            "Equipment": [
+                "Band Saw",
+                "CNC Plasma Cutter"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Bend material to shape",
+            "Equipment": [
+                "Press Brake"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Drill holes for mounting",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Deburr edges",
+            "Equipment": [
+                "Deburring Tool",
+                "Grinding Wheel"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Clean surface",
+            "Equipment": [
+                "Ultrasonic Cleaner"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Apply surface coating",
+            "Equipment": [
+                "Powder Coating Booth"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Inspect quality",
+            "Equipment": [
+                "Caliper",
+                "Micrometer",
+                "Visual Inspection Tools"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Package finished product",
+            "Equipment": [
+                "Packaging Machine",
+                "Sealing Machine"
+            ]
+        }
+    ]
+}

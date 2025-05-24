@@ -1,0 +1,111 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "CNC Machining",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze technical drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Initial Material Cutting (Roughing)",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring holes",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Threading",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling",
+            "Equipment": [
+                "CNC Drill"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Milling contours",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Heat-treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Coordinate Measuring Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating Booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

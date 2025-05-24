@@ -1,0 +1,111 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Manufacturing of a phone case",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the drawing",
+            "Equipment": [
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material inventory system"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough cutting",
+            "Equipment": [
+                "CNC Machining Center"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing the surface",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Boring for precision",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling edges",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Grinding to specifications",
+            "Equipment": [
+                "Grinding Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Polishing for finish",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Inspection Tools"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging for shipment",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

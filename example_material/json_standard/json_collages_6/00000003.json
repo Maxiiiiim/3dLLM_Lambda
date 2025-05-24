@@ -1,0 +1,107 @@
+{
+    "File name": "3D_Model_Image.jpg",
+    "Name of operation": "Machining a Pipe Fitting",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the technical drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Cut raw material to rough size",
+            "Equipment": [
+                "Band Saw"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Turning to achieve cylindrical profile",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing the ends to desired length",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes for connections",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Boring to create precise internal diameter",
+            "Equipment": [
+                "Boring Mill"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Threading for external connections",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Reaming for final size accuracy",
+            "Equipment": [
+                "Reamer"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring edges and holes",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Heat treatment for strength enhancement",
+            "Equipment": [
+                "Heat Treatment Furnace"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding for smooth surface finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality inspection for tolerances",
+            "Equipment": [
+                "Calipers",
+                "Micrometers",
+                "CMM"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface coating for corrosion resistance",
+            "Equipment": [
+                "Coating Booth"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging for delivery",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

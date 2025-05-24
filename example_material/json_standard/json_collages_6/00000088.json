@@ -1,0 +1,111 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Manufacturing Phone Case",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and design parameters",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection and preparation",
+            "Equipment": [
+                "Material cutting machine",
+                "Raw material handling tools"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "CNC milling for rough shaping",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing for surface flatness",
+            "Equipment": [
+                "Lathe Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes for buttons and ports",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Boring for precise hole dimensions",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Threading for screw fittings",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Heat treatment for material strength",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring to remove sharp edges",
+            "Equipment": [
+                "Deburring Tool",
+                "Hand File"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Polishing for surface finish",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Quality inspection for dimensional accuracy",
+            "Equipment": [
+                "Calipers",
+                "Measurement Tools"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Surface coating for aesthetic finish",
+            "Equipment": [
+                "Spray Booth",
+                "Coating Equipment"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Final quality inspection",
+            "Equipment": [
+                "Measurement Tools",
+                "Inspection Jigs"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging of finished products",
+            "Equipment": [
+                "Packaging Machine",
+                "Boxes"
+            ]
+        }
+    ]
+}

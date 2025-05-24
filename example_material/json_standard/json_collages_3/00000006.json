@@ -1,0 +1,97 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Manufacturing Hex Nut",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer Software (CAD)"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Blanking (cutting the material to rough shape)",
+            "Equipment": [
+                "CNC Punching Machine"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Turning (creating hex profile)",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring (creating inner hole)",
+            "Equipment": [
+                "CNC Boring Mill"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Facing (smoothing the face)",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading (cutting external and internal threads)",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring (removing sharp edges)",
+            "Equipment": [
+                "Deburring Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Heat treatment (hardening material)",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Grinding (finishing surfaces)",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Polishing (enhancing surface finish)",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Quality inspection (checking dimensions and tolerances)",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Surface coating (applying protective finish)",
+            "Equipment": [
+                "Spray Coating Booth"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Packaging (preparing for shipment)",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

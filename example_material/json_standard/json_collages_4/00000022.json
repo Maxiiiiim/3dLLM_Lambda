@@ -1,0 +1,63 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Product Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough machining",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Semi-finishing",
+            "Equipment": [
+                "CNC Turning Machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Finishing",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Coordinate Measuring Machine (CMM)"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Machine"
+            ]
+        }
+    ]
+}

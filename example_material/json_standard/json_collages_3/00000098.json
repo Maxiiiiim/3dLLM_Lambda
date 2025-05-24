@@ -1,0 +1,107 @@
+{
+    "File name": "3D_Model.jpg",
+    "Name of operation": "Manufacturing of a cylindrical battery case",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze technical drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Initial material selection",
+            "Equipment": [
+                "Material stock"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough turning to shape outer diameter",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing to create flat end surface",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring hole for internal cavity",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Reaming to improve internal surface finish",
+            "Equipment": [
+                "Reaming machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling to create tabs or additional features",
+            "Equipment": [
+                "Milling machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Deburring edges to remove sharp corners",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Heat treatment for hardness",
+            "Equipment": [
+                "Heat treatment furnace"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Grinding for precise dimensions",
+            "Equipment": [
+                "Surface grinder"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Polishing to achieve smooth surface",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality inspection of dimensions and surface finish",
+            "Equipment": [
+                "Calipers",
+                "Micrometer",
+                "Surface finish tester"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Coating spray booth"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging for shipment",
+            "Equipment": [
+                "Packaging materials",
+                "Sealing machine"
+            ]
+        }
+    ]
+}

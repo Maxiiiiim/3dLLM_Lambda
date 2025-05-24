@@ -1,0 +1,83 @@
+{
+    "File name": "CR2032_Battery_Model.jpg",
+    "Name of operation": "Battery Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and specifications",
+            "Equipment": [
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough turning of the outer diameter",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing the surface to achieve final thickness",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring the center hole for electrode insertion",
+            "Equipment": [
+                "Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Milling the surface for markings",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Heat treatment for material strengthening",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring edges and surfaces",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Grinding the outer surface for smooth finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Quality inspection for dimensions and defects",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Surface coating for corrosion resistance",
+            "Equipment": [
+                "Coating Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Packaging the finished product",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

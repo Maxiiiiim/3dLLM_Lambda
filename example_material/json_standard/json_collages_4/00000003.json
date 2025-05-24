@@ -1,0 +1,122 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Machining",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze the drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material stock"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough turning",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drill press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Threading",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Milling",
+            "Equipment": [
+                "Milling machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Heat treatment furnace"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Grinding",
+            "Equipment": [
+                "Grinding machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM",
+                "Calipers"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray booth",
+                "Coating material"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging materials",
+                "Sealing machine"
+            ]
+        }
+    ]
+}

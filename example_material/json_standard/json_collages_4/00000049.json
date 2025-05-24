@@ -1,0 +1,105 @@
+{
+    "File name": "hex_bolt.jpg",
+    "Name of operation": "Bolt Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analysis of technical drawing",
+            "Equipment": [
+                "Computer-Aided Design (CAD) Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection and preparation",
+            "Equipment": [
+                "Material Storage",
+                "Cutting Tools"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling the hole",
+            "Equipment": [
+                "CNC Mill"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Boring for precision",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Heat treatment for strength",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Grinding for final dimensions",
+            "Equipment": [
+                "Grinding Machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Polishing for surface finish",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Quality Control Station"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface coating (if required)",
+            "Equipment": [
+                "Coating Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

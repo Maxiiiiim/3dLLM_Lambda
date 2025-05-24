@@ -1,0 +1,76 @@
+{
+    "File name": "3D_Model_Cover.jpg",
+    "Name of operation": "Manufacturing Plastic Cover",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze technical drawing",
+            "Equipment": [
+                "Computer CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material Inventory Management System"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "CNC Milling (Roughing)",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "CNC Milling (Semi-finishing)",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "CNC Milling (Finishing)",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling holes",
+            "Equipment": [
+                "CNC Drilling Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring edges",
+            "Equipment": [
+                "Deburring Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Quality Inspection System"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray Coating Booth"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "File name": "3D_Model_Part.jpg",
+    "Name of operation": "Cylindrical Tube Machining",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and specifications",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material cutting to rough dimensions",
+            "Equipment": [
+                "Bandsaw"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Turning to achieve initial shape",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing to create flat surfaces",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring the inner diameter",
+            "Equipment": [
+                "Boring Mill"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading for connections",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Drilling holes as per design",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Reaming for precise sizing",
+            "Equipment": [
+                "Reaming Tool"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Milling to create features",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring edges and surfaces",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Grinding for smooth finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Polishing for final finish",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Quality inspection of dimensions",
+            "Equipment": [
+                "Digital Calipers",
+                "Measurement Equipment"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Coating Spray Booth"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging the finished product",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

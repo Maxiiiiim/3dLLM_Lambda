@@ -1,0 +1,55 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough machining",
+            "Equipment": [
+                "CNC Lathe",
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Semi-finishing",
+            "Equipment": [
+                "CNC Milling Machine",
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Finishing",
+            "Equipment": [
+                "CNC Milling Machine",
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM (Coordinate Measuring Machine)",
+                "Calipers",
+                "Micrometers"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging Machine",
+                "Sealing Machine"
+            ]
+        }
+    ]
+}

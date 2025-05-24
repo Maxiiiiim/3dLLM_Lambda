@@ -1,0 +1,112 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material inventory system"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Cutting material to size",
+            "Equipment": [
+                "Band saw"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Turning",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Facing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Boring",
+            "Equipment": [
+                "Boring machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drilling machine"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Milling",
+            "Equipment": [
+                "Milling machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Furnace"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Coating spray booth"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Caliper",
+                "Micrometer"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "File name": "3D_Model.jpg",
+    "Name of operation": "Metal Part Manufacturing",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze Drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Cut Raw Material",
+            "Equipment": [
+                "Band Saw",
+                "CNC Plasma Cutter"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Face the Material",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Rough Turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drill Holes",
+            "Equipment": [
+                "CNC Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Bore Holes",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Milling Features",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Threading",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Reaming Holes",
+            "Equipment": [
+                "Reaming Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Deburring Edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Heat Treatment",
+            "Equipment": [
+                "Heat Treatment Furnace"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Grinding Surface",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Polishing Surface",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Quality Inspection",
+            "Equipment": [
+                "CMM",
+                "Calipers"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Surface Coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Packaging for Shipment",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

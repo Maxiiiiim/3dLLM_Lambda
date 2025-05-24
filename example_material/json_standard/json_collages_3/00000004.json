@@ -1,0 +1,92 @@
+{
+    "File name": "3D_Model.jpg",
+    "Name of operation": "Manufacturing of a curved component",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing and specifications",
+            "Equipment": [
+                "Computer workstation",
+                "CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough machining - turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Semi-finishing - facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Finishing - drilling",
+            "Equipment": [
+                "CNC Mill"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring to achieve final diameter",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading for fastening",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring edges",
+            "Equipment": [
+                "Deburring tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Surface grinding for finish",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Polishing for aesthetics",
+            "Equipment": [
+                "Polisher"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Measuring tools",
+                "CMM"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Surface coating for protection",
+            "Equipment": [
+                "Spray booth"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Packaging for shipment",
+            "Equipment": [
+                "Packing station"
+            ]
+        }
+    ]
+}

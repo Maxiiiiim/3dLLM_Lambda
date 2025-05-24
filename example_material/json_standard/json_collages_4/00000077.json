@@ -1,0 +1,134 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Comprehensive Machining Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze Drawings",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material Setup",
+            "Equipment": [
+                "Material stock",
+                "Machining table"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough Turning",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Facing",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Boring",
+            "Equipment": [
+                "CNC Mill"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Drilling",
+            "Equipment": [
+                "Drill press"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Reaming",
+            "Equipment": [
+                "Reaming tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Milling",
+            "Equipment": [
+                "CNC Mill"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Slotting",
+            "Equipment": [
+                "Slotting machine"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Key-seating",
+            "Equipment": [
+                "Key-seating machine"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Broaching",
+            "Equipment": [
+                "Broaching machine"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Heat Treatment",
+            "Equipment": [
+                "Heat treatment furnace"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring machine"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface grinder"
+            ]
+        },
+        {
+            "Step number": 15,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 16,
+            "Action": "Quality Inspection",
+            "Equipment": [
+                "CMM machine",
+                "Calipers"
+            ]
+        },
+        {
+            "Step number": 17,
+            "Action": "Surface Coating",
+            "Equipment": [
+                "Spray booth"
+            ]
+        },
+        {
+            "Step number": 18,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging station"
+            ]
+        }
+    ]
+}

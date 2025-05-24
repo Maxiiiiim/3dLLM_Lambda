@@ -1,0 +1,77 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing Fidget Spinner",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer with CAD software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough machining of the blank",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Facing the blank",
+            "Equipment": [
+                "CNC Lathe"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring the central holes",
+            "Equipment": [
+                "CNC Drill"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Milling the outer profile",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Key-seating for thumb grips",
+            "Equipment": [
+                "CNC Milling Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring edges",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Caliper",
+                "Surface Plate"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Packaging the finished product",
+            "Equipment": [
+                "Packaging Station"
+            ]
+        }
+    ]
+}

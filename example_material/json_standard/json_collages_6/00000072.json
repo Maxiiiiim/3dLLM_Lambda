@@ -1,0 +1,86 @@
+{
+    "File name": "product_model.jpg",
+    "Name of operation": "Manufacturing of a mechanical part",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Material selection",
+            "Equipment": [
+                "Material catalog",
+                "Measuring tools"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Rough machining",
+            "Equipment": [
+                "Lathe",
+                "Milling machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Semi-finishing",
+            "Equipment": [
+                "CNC milling machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Finishing",
+            "Equipment": [
+                "CNC mill",
+                "Polishing machine"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "Caliper",
+                "Micrometer",
+                "Inspection software"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring tool",
+                "Hand tools"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Furnace"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray booth",
+                "Coating materials"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packaging machine",
+                "Boxes",
+                "Labels"
+            ]
+        }
+    ]
+}

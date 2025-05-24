@@ -1,0 +1,106 @@
+{
+    "File name": "3D_model.jpg",
+    "Name of operation": "Manufacturing Process",
+    "Steps": [
+        {
+            "Step number": 1,
+            "Action": "Analyze drawing",
+            "Equipment": [
+                "Computer",
+                "CAD Software"
+            ]
+        },
+        {
+            "Step number": 2,
+            "Action": "Rough cutting",
+            "Equipment": [
+                "Band Saw"
+            ]
+        },
+        {
+            "Step number": 3,
+            "Action": "Milling for flat surfaces",
+            "Equipment": [
+                "Milling Machine"
+            ]
+        },
+        {
+            "Step number": 4,
+            "Action": "Boring holes",
+            "Equipment": [
+                "Boring Machine"
+            ]
+        },
+        {
+            "Step number": 5,
+            "Action": "Drilling holes",
+            "Equipment": [
+                "Drill Press"
+            ]
+        },
+        {
+            "Step number": 6,
+            "Action": "Threading",
+            "Equipment": [
+                "Tapping Machine"
+            ]
+        },
+        {
+            "Step number": 7,
+            "Action": "Semi-finishing",
+            "Equipment": [
+                "Lathe"
+            ]
+        },
+        {
+            "Step number": 8,
+            "Action": "Heat treatment",
+            "Equipment": [
+                "Heat Treatment Oven"
+            ]
+        },
+        {
+            "Step number": 9,
+            "Action": "Deburring",
+            "Equipment": [
+                "Deburring Tool"
+            ]
+        },
+        {
+            "Step number": 10,
+            "Action": "Grinding",
+            "Equipment": [
+                "Surface Grinder"
+            ]
+        },
+        {
+            "Step number": 11,
+            "Action": "Polishing",
+            "Equipment": [
+                "Polishing Machine"
+            ]
+        },
+        {
+            "Step number": 12,
+            "Action": "Quality inspection",
+            "Equipment": [
+                "CMM",
+                "Calipers"
+            ]
+        },
+        {
+            "Step number": 13,
+            "Action": "Surface coating",
+            "Equipment": [
+                "Spray Booth"
+            ]
+        },
+        {
+            "Step number": 14,
+            "Action": "Packaging",
+            "Equipment": [
+                "Packing Station"
+            ]
+        }
+    ]
+}
