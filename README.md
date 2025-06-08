@@ -26,7 +26,6 @@
 
 Файлы **render_script_type1.py** и **render_script_type2.py** реализует рендеринг 3D-модели в 28 изображений.
    - Предварительно надо установить blender (https://huggingface.co/datasets/tiange/Cap3D/resolve/main/misc/blender.zip) и разместить в корне проекта
-   - За основу взят код из статьи Сap3D. Ссылка на оригинальный код: https://github.com/tiangeluo/DiffuRank
    - Команды для запуска скриптов:
 ```
 # Создание 8 ракурсов
