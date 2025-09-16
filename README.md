@@ -1,5 +1,7 @@
 # 3D-LLMs
 
+![CAD2TechSpec overview](https://github.com/Maxiiiiim/3dLLM_Lambda/blob/main/Framework%20CAD2TechSpec.png)
+
 ## Описание папок
 Папка **'abc_dataset'** содержит данные из ABC датасета (https://archive.nyu.edu/handle/2451/44309);
 
@@ -56,3 +58,4 @@ blender -b -P render_script_type2.py -- --object_path_pkl './example_material/ex
 
 Файл **evaluate_by_criteria.py** реализует оценку качества сгенерированных JSON-файлов по заданным критериям.
    - Оценка осуществляется с использованием модели GPT-4o mini.
+
